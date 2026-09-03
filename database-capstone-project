@@ -1,0 +1,15 @@
+# Learning Management System (LMS)
+
+## Problem Statement
+Schools and training institutions need a centralized system to manage students, courses, assignments, and grades.
+
+## Business Requirements
+- Register students
+- Manage courses
+- Track enrollments
+- Grade assignments
+
+## User Roles
+- Admin
+- Instructor
+- Student
